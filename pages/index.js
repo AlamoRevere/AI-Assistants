@@ -49,6 +49,7 @@ function Home() {
       </div>
       <hr className={styles.hr} />
       <div>
+      
         <p>
           The button below will throw 2 errors. You'll see the error overlay to
           let you know about the errors but it won't break the page or reset
